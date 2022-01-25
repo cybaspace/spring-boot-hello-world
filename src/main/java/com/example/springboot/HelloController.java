@@ -17,5 +17,4 @@ public class HelloController {
 		LOG.info("Called index page in webapp - with password " + password);
 		return "Greetings from Spring Boot!";
 	}
-
 }
